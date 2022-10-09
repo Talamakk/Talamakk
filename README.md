@@ -34,7 +34,7 @@ Feel free to check out my projects - any feedback is more than welcome!
 
 - 👀 Looking for: opportunities to work in professional cloud projects, with real-life problems  
 
-- 🥁 Free time: Indie music, collecting vinyls, travels
+- 🥁 Free time: alternative music, collecting vinyls, travels
 
 <br/>  
 
