@@ -26,12 +26,12 @@ Feel free to check out my projects - any feedback is more than welcome!
 ## Quick summary  
 - 💪 Good at: Microsoft Azure Tools, PowerShell automation, Git
 
-- 🌱 Currently learning: Azure DevOps
+- 🌱 Currently learning: Docker and Kubernetes
 
 - 📚 Certs/courses: 
     - ✔️ AZ-900
+    - ✔️ PwC: Cloud Bootcamp – Cloud Fundamentals (60 training hours) 
     - ✔️ Udemy: Azure DevOps Fundamentals for Beginners
-    - ✔️ PwC: Cloud Bootcamp – Cloud Fundamentals (60 training hours)
 
 - 👀 Looking for: opportunities to work in professional cloud projects, with real-life problems  
 
